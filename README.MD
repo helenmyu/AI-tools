@@ -56,6 +56,4 @@ Want to add an AI tool? Contributions are welcome!
 Fork the repository
 Add your tool (with a brief description and link)
 Submit a Pull Request
-License
 
-This project is licensed under the MIT License.
