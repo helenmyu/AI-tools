@@ -16,7 +16,6 @@ Code & Technical Research Assistance
 Collaboration & Productivity
 Contributing
 License
-Introduction
 
 AI is transforming academic research by automating tedious tasks, improving writing quality, and accelerating discoveries. This repository compiles the best AI tools to help researchers, students, and academics work more efficiently.
 
